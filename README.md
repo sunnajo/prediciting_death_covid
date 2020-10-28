@@ -1,1 +1,1 @@
-# prediciting_death_covid
+# Project 3 README
