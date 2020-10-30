@@ -31,9 +31,9 @@ This project is purely for educational purposes. The results or any extensions o
 
 *License type: CC BY 4.0*
 
-3) CDC National Healthcare Safety Network (NHSN) data: state-level data set that includes inpatient hospital bed occupancy by COVID patients and total hospital beds occupied. This data was engineered into a national-level data set.
+3) Department of Health and Human Services COVID-19 Estimated Patient Impact and Hospital Capacity data: state-level data set that includes inpatient hospital bed occupancy by COVID patients and total hospital beds occupied. This data was engineered into a national-level data set.
 
-*Source: https://www.cdc.gov/nhsn/covid19/report-patient-impact.html#anchor_1587406850*
+*Source: https://healthdata.gov/dataset/covid-19-estimated-patient-impact-and-hospital-capacity-state*
 
 All data was downloaded directly from the source as .csv files and stored in a PostgreSQL database.
 
