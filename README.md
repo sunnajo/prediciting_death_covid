@@ -21,11 +21,11 @@ This project is purely for educational purposes. The results or any extensions o
 
 ## Overview of Data
 
-1) CDC public use surveillance data: patient-level data set that includes demographic and health features, hospitalization and ICU admission status, and outcome (death vs. not)
+1) [CDC public use surveillance data](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf): patient-level data set that includes demographic and health features, hospitalization and ICU admission status, and outcome (death vs. not)
 
-2) The COVID Tracking Project data: national-level data set that includes total deaths, positive tests, hospitalizations, ICU admissions, patients on ventilatory support, total test results, etc.
+2) [The COVID Tracking Project data](https://covidtracking.com/data/national): national-level data set that includes total deaths, positive tests, hospitalizations, ICU admissions, patients on ventilatory support, total test results, etc.
 
-3) CDC National Healthcare Safety Network (NHSN) data: state-level data set that includes inpatient hospital bed occupancy by COVID patients and total hospital beds occupied. This data was engineered into a national-level data set.
+3) [CDC National Healthcare Safety Network (NHSN) data](https://www.cdc.gov/nhsn/covid19/report-patient-impact.html#anchor_1587406850): state-level data set that includes inpatient hospital bed occupancy by COVID patients and total hospital beds occupied. This data was engineered into a national-level data set.
 
 All data was downloaded directly from the source as .csv files and stored in a PostgreSQL database.
 
