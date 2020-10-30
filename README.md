@@ -10,10 +10,12 @@ This project is purely for educational purposes. The results or any extensions o
 
 ## Table of Contents
 
-- [Data collection and cleaning, EDA, feature analysis and engineering]('https://github.com/sunnajo/predicting_covid_death/tree/main/data-cleaning_analysis')
-- [Modeling
-- [Modules]('https://github.com/sunnajo/predicting_covid_death/tree/main/modules')
-- [Application]('https://github.com/sunnajo/predicting_covid_death/tree/main/application')
+### Code/Notebooks
+
+- [Data collection and cleaning, EDA, feature analysis and engineering](https://github.com/sunnajo/predicting_covid_death/tree/main/data-cleaning_analysis)
+- [Modeling](https://github.com/sunnajo/predicting_covid_death/tree/main/modeling)
+- [Modules](https://github.com/sunnajo/predicting_covid_death/tree/main/modules)
+- [Application](https://github.com/sunnajo/predicting_covid_death/tree/main/application)
 
 
 
